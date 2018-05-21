@@ -1,5 +1,4 @@
-# si2018-design
-## Design tech challenge for Nest Collective Summer Internship 2018
+# Design tech challenge - Nest Collective Summer Internship 2018
 
 Design and build a web page to view upcoming events. 
 
@@ -17,8 +16,7 @@ The main goal for this challenge is to build a layout that lets the users easily
 * Location
 * Short description
 
-List of events: https://docs.google.com/spreadsheets/d/1B_JRkkUW2KgO4bBZsxTj9ItvdPE3N7aktkKzOTStsrQ/edit?usp=sharing
-Note: you don’t have to display all the events above, nor all its info.
+Use this [list of sample events](https://docs.google.com/spreadsheets/d/1B_JRkkUW2KgO4bBZsxTj9ItvdPE3N7aktkKzOTStsrQ/edit?usp=sharing). Note: you don’t have to display all the events above, nor all its info.
 
 #### Process
 * Research similar solutions
