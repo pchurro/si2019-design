@@ -1,4 +1,4 @@
-# Design tech challenge - Nest Collective Summer Internship 2018
+# Design challenge - Nest Collective Summer Internship 2018
 
 Design and build a web page to view upcoming events. 
 
