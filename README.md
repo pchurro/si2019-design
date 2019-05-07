@@ -1,4 +1,4 @@
-# Design challenge - Nest Collective Summer Internship 2018
+# Design challenge - Nest Collective Summer Internship 2019
 
 Design and build a web page to view upcoming events. 
 
@@ -21,7 +21,7 @@ Use this [list of sample events](https://docs.google.com/spreadsheets/d/1B_JRkkU
 #### Process
 * Research similar solutions
 * Design a wireframe + mockup
-* Build a prototype using HTML and CSS
+* Prototype
 
 
 You should fork this github repository and upload your work there to share it with us.
